@@ -45,3 +45,8 @@ def trick(times_out):
     
 print(trick(5))
 """
+
+# Question does not ask to create a function. It simply is asking for you to put in values. 
+# Since you entered in a function, it was graded as a function and it was penalized because 
+# you did not follow the function design recipe (-15). Also the trick works only for you,
+# if it were a function, it should also apply to different inputs for parts e, f, and g.
